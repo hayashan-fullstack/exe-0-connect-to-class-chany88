@@ -1,0 +1,27 @@
+body {
+    padding-top:10em;
+    padding-left: 40em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: rgb(19, 104, 184);
+    background-image:url('4.jpg') ;
+    background-size:cover 
+    }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 3em;
+    left: 5em;
+    width: 10em }
+
+  ul.navbar li {
+    background: rgb(102, 174, 207);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid rgb(42, 55, 68) }
+
+  a:visited {
+    color: rgb(7, 78, 110) }
+  
